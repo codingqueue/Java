@@ -3,7 +3,7 @@
  * 
  * @author CodingQueue
  */
-
+package operators;
 public class Modulus {
     public static void main(String args[]) {
         int x = 42;

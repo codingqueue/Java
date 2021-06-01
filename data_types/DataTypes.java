@@ -1,3 +1,4 @@
+package data_types;
 /**
 In this program all primitive data types are demonstrated.
 @author CodingQueue

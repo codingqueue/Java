@@ -1,3 +1,4 @@
+package user_inputs;
 /**
 In this program we are going to learn about user input.
 @author CodingQueue

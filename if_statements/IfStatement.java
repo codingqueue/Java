@@ -1,3 +1,4 @@
+package if_statements;
 /**
  * Demonstration of if statement.
  * @author CodingQueue

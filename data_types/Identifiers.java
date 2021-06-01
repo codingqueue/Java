@@ -1,3 +1,4 @@
+package data_types;
 /**
 In this program we are going to discuss rules to define identifiers.
 @author CodingQueue

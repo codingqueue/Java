@@ -1,3 +1,4 @@
+package data_types;
 public class TypeConversion {
     public static void main(String[] args) {
         // (target-type) (value)

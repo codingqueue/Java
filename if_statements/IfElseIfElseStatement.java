@@ -1,3 +1,4 @@
+package if_statements;
 import java.util.Scanner;
 
 public class IfElseIfElseStatement{
